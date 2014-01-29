@@ -56,7 +56,7 @@ h2 {
     border:5px solid #dfdfdf;
 }
 .orange {
-    color:#ff6000;
+    color:#FF6602;
 }
 .wraptitle {
     position:relative;
@@ -75,7 +75,7 @@ h2 {
 #contact-title {
     height:250px;
     color:white;
-    border-bottom:5px solid #ff6000;
+    border-bottom:5px solid #FF6602;
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
     box-sizing: content-box;
@@ -125,7 +125,7 @@ h2 {
 }
 .blog-item .title {
     font-weight:600;
-    color:#ff6000;
+    color:#FF6602;
 }
 .blog-item .info {
     font-weight:400;
@@ -161,7 +161,7 @@ h2 {
 }
 .popupbox h3 {font-weight:600;
     font-size:24px;
-    color:#ff6000;
+    color:#FF6602;
     margin:0 0 20px 0;
 }
 .popupbox p {
@@ -177,7 +177,7 @@ h2 {
     top: 0;
     left: 0;
     width: 100%;
-    background: #ffc600;
+    background: #005284;
     z-index: 10000;
     height: 220px;
     -webkit-transition: height 0.3s;
@@ -195,7 +195,7 @@ h2 {
 .cbp-af-header h1 {
 	background-color: #FFFFFF;
 	border-radius: 100%;
-	color: #FF6000;
+	color: #FF6602;
 	font-size: 43px;
 	font-weight: normal;
 	height: 220px;
@@ -205,8 +205,8 @@ h2 {
 	text-align: center;
 	text-transform: uppercase;
 	width: 220px;
-	padding-top:60px;
-	border:3px solid #FF6000;
+	padding-top:80px;
+	border:3px solid #FF6602;
 	line-height:50px;
 }
 .cbp-af-header nav {
@@ -224,7 +224,7 @@ h2 {
     width: 28%;
 }
 .cbp-af-header nav a {
-    color: #FF6000;
+    color: #FF6602;
     float: left;
     font-size: 20px;
     font-weight: 600;
@@ -251,9 +251,9 @@ h2 {
 	color: #ffffff;
 }
 .cbp-af-header.cbp-af-header-shrink h1 {
-    font-size: 23px;
+    font-size: 20px;
 	border-radius: 55px;
-	color: #FF6000;
+	color: #FF6602;
 	font-weight: normal;
 	height: 110px;
 	left: 50%;
@@ -262,8 +262,8 @@ h2 {
 	text-align: center;
 	text-transform: uppercase;
 	width: 110px;
-	padding-top:30px;
-	border:3px solid #FF6000;
+	padding-top:40px;
+	border:3px solid #FF6602;
 	line-height:25px;
 }
 a#pull {
@@ -365,7 +365,7 @@ a#pull {
         top:0;
     }
     .cbp-af-header.cbp-af-header-shrink nav a {
-        color:#FF6000;
+        color:#FF6602;
     }
     #about {
         text-align:center;
