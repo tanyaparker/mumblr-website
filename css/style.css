@@ -75,13 +75,13 @@ h2 {
 #contact-title {
     height:250px;
     color:white;
-    border-bottom:5px solid #FF6602;
+    border-bottom:5px solid #ff6602;
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
     box-sizing: content-box;
 }
 #about-title {
-    background-color:black;
+    background-color:#005284;
 }
 #blog-title {
     background:#484746;
@@ -282,7 +282,7 @@ a#pull {
 
 /* ============== Parallax image backgounds ==================== */
 .js-background-1 {
-    background: transparent url('../img/about-bg.png') 10% 150px no-repeat;
+    background: transparent url('../img/speech_bubbles.png') 10% 150px no-repeat;
 }
 .js-background-2 {
     background: transparent url('../img/blog-bg.png') 10% 150px no-repeat;
@@ -372,6 +372,11 @@ a#pull {
     }
     img.circle {
         max-width:90%;
+
+    }
+    img.resize{
+    width: 20%px; 
+    height: auto;
     }
     .blog-item {
         width:100%;
