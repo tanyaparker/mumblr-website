@@ -6,8 +6,8 @@ html {height: 100%;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;-we
 body {height: 100%;font-size:14px;font-family:'Open Sans', Helvetica, sans-serif;line-height: 1.428571429;color: #333333;background-color: #ffffff;}
 h1 {margin: 0;font-weight:400;}
 canvas{display: inline-block;}
-a {color: #c95c50;text-decoration: none;}
-a:hover,a:focus {color: #c95c50;text-decoration: underline;outline: none;}
+a {color: #005284;text-decoration: none;}
+a:hover,a:focus {color: #005284;text-decoration: underline;outline: none;}
 p {margin: 20px 0;}
 ul,ol {margin-top: 0;margin-bottom: 10px;}
 ul ul,ol ul,ul ol,ol ol {margin-bottom: 0;}
@@ -100,7 +100,7 @@ ul.social li a.in:hover{background-position: -350px -100px;}
 .navbar-inverse .navbar-nav > .active > a,.navbar-inverse .navbar-nav > .active > a:hover,.navbar-inverse .navbar-nav > .active > a:focus {color: #ffffff;background-color: #080808;}
 .navbar-inverse .navbar-nav > .disabled > a,.navbar-inverse .navbar-nav > .disabled > a:hover,.navbar-inverse .navbar-nav > .disabled > a:focus {color: #444444;background-color: transparent;}
 .navbar-inverse .navbar-toggle {border-color: #333333;}
-.navbar-inverse .navbar-toggle:hover,.navbar-inverse .navbar-toggle:focus {background-color: #c95c50;}
+.navbar-inverse .navbar-toggle:hover,.navbar-inverse .navbar-toggle:focus {background-color: #005284;}
 .navbar-inverse .navbar-toggle .icon-bar {background-color: #ffffff;}
 .navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form {border-color: #ff7b6d;background-color:transparent;}
 
